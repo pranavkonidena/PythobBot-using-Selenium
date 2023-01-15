@@ -18,7 +18,7 @@ sleep(2)
 
 
 
-makemytrip = "https://www.makemytrip.com/flight/search?itinerary=DEL-BLR-15/01/2023&tripType=O&paxType=A-1_C-0_I-0&intl=false&cabinClass=E&ccde=IN&lang=eng"
+makemytrip = "https://www.makemytrip.com/flight/search?itinerary=DEL-BLR-16/01/2023&tripType=O&paxType=A-1_C-0_I-0&intl=false&cabinClass=E&ccde=IN&lang=eng"
 
 driver.get(makemytrip)
 
