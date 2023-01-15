@@ -1,0 +1,21 @@
+Softwares used:Panda,Selenium,Chrome driver,Time,Departue,Arrival,Date of Departure.
+
+"Panda" was used for Data Frame.
+"Chrome driver" was used for setting link to Website directly.
+"Time" which is a variable can be reset to Show update about Fare of Journey.
+"Selenium" -A bot i.e Used for automated repetitive actions like Searching for fares to corresponding Journey.
+
+Languages used:
+
+"Python3"
+
+Aim:To make it convenient for Travellers to Choose their flight tickets Economically aand Wisely.
+
+Advantages : Travellers can avoid any difficulty in booking their flight tickets.
+            They can choose according to time and when they wish to go in best prices.
+             No need to search in lot of websites.
+
+
+  
+ .   
+
